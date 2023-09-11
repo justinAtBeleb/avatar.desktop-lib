@@ -1,0 +1,5 @@
+export * from './types'
+export { uploadHighlight, uploadEditedHighlight } from './upload'
+export { downloadHighlight, moveToLibrary, saveEditedHighlight } from './save'
+export { deleteHighlight, deleteSession } from './delete'
+export { updateTitle } from './update'

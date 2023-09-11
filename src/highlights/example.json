@@ -1,0 +1,110 @@
+{
+  "sessions": [
+    {
+      "id": "9851ab69-7f0b-4542-9267-865fb7317d22",
+      "game": 5426,
+      "date": 1653576227316,
+      "plays": [
+        {
+          "id": "01370fd8-bcea-4057-a8ca-868a11993d5b",
+          "url": "overwolf://media/videos/BUFF/VideoCompilation+05-26-2022_16-43-47-329.mp4",
+          "path": "C:\\Users\\pezac\\Videos\\Overwolf\\BUFF\\VideoCompilation 05-26-2022_16-43-47-329.mp4",
+          "events": [{ "name": "death", "time": 95188.70500000776 }],
+          "tags": [],
+          "length": 42941.96500000544,
+          "status": "NOT_UPLOADED",
+          "title": "my favorite champion",
+          "code": "AH9F1XGvs7Od/qCfcDKnwR3SsgKnf403Kkh70INZRlQ="
+        }
+      ],
+      "data": [
+        { "name": "KDA", "value": "0/1/0" },
+        { "name": "Champion", "value": "Blitzcrank" }
+      ]
+    },
+    {
+      "id": "bf17d4a0-211d-4f7c-ab47-c6077cc2e7fa",
+      "game": 5426,
+      "date": 1653581822836,
+      "plays": [
+        {
+          "id": "c978b139-2bda-4575-a75f-8cc0fe994313",
+          "url": "overwolf://media/videos/BUFF/VideoCompilation+05-26-2022_18-17-02-851.mp4",
+          "path": "C:\\Users\\pezac\\Videos\\Overwolf\\BUFF\\VideoCompilation 05-26-2022_18-17-02-851.mp4",
+          "events": [
+            { "name": "manual", "label": "", "time": 4491697.415000003 }
+          ],
+          "tags": [],
+          "length": 48593.68500000052,
+          "status": "NOT_UPLOADED",
+          "title": "asafds",
+          "code": "nHPbW8ipqikRKDDRNaKlnpuKMHQkw7/Z22F9QNUIk7c="
+        },
+        {
+          "id": "0094c578-9464-47de-a578-8d1177975541",
+          "url": "overwolf://media/videos/BUFF/VideoCompilation+05-26-2022_18-17-02-924.mp4",
+          "path": "C:\\Users\\pezac\\Videos\\Overwolf\\BUFF\\VideoCompilation 05-26-2022_18-17-02-924.mp4",
+          "events": [{ "name": "death", "time": 4509133.384999994 }],
+          "tags": [],
+          "length": 48593.68500000052,
+          "status": "NOT_UPLOADED",
+          "title": "",
+          "code": "2KGFib8nGd1sMN3bwUQB5g1zWJ/wt9UzLTVq0HHZlMs="
+        }
+      ],
+      "data": [
+        { "name": "KDA", "value": "0/1/0" },
+        { "name": "Champion", "value": "Blitzcrank" }
+      ]
+    },
+    {
+      "id": "6abcc430-0cfa-4dfa-ba77-be2731504dd7",
+      "game": 5426,
+      "date": 1653907258518,
+      "plays": [
+        {
+          "id": "9d82a569-fd0f-450a-80c7-0c059b02d7b4",
+          "url": "overwolf://media/videos/BUFF/VideoCompilation+05-30-2022_12-40-58-535.mp4",
+          "path": "C:\\Users\\pezac\\Videos\\Overwolf\\BUFF\\VideoCompilation 05-30-2022_12-40-58-535.mp4",
+          "events": [
+            { "name": "manual", "label": "", "time": 48211.45000006072 }
+          ],
+          "tags": ["LoL", "manual"],
+          "length": 12921.679999912158,
+          "status": "NOT_UPLOADED",
+          "title": "test",
+          "code": "8+2YnOHgJJqWMGWRKm2wIj3yWtg7Pg/sdfdZqYMoTyY="
+        }
+      ],
+      "data": [
+        { "name": "KDA", "value": "0/0/0" },
+        { "name": "Champion", "value": "Shen" }
+      ]
+    },
+    {
+      "id": "68f09575-b2e2-4f57-9da3-74eeae95d83b",
+      "game": 5426,
+      "date": 1653908088889,
+      "plays": [
+        {
+          "id": "b86cf938-53ab-4e1e-88a6-1dc15e40631e",
+          "url": "overwolf://media/videos/BUFF/VideoCompilation+05-30-2022_12-54-48-902.mp4",
+          "path": "C:\\Users\\pezac\\Videos\\Overwolf\\BUFF\\VideoCompilation 05-30-2022_12-54-48-902.mp4",
+          "events": [
+            { "name": "manual", "label": "", "time": 144147.6300000213 },
+            { "name": "manual", "label": "", "time": 144314.91499999538 }
+          ],
+          "tags": ["OUT_PLAY"],
+          "length": 16736.42500001006,
+          "status": "NOT_UPLOADED",
+          "title": "outplay",
+          "code": "ymf0Y8gf86NBBtspRS1dFbCARV2yH4XrykWTvWp1Fy4="
+        }
+      ],
+      "data": [
+        { "name": "KDA", "value": "0/0/0" },
+        { "name": "Champion", "value": "Singed" }
+      ]
+    }
+  ]
+}
